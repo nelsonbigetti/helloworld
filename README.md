@@ -3,17 +3,15 @@ hello world
 
 [local link to file hello.cpp](hello.cpp)
 
-[foo]: /url "title"
+[I'm an inline-style link](https://www.google.com)
 
-[foo]
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-   [foo]: 
-      /url  
-           'the title'  
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[foo]
-[Foo*bar\]]:my_(url) 'title (with parens)'
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[Foo*bar\]]
+[You can use numbers for reference-style link definitions][1]
+
 
 
